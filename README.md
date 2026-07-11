@@ -112,6 +112,4 @@
 
 ### ⭐ Thanks for visiting!
 
-*"The best way to learn is to build."* 🚀
-
 </div>
