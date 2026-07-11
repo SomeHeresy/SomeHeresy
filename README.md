@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hey, I'm Cal
+# 👋 Hallo, I'm Calvin Yang :P
 
 ### 💻 Computer Science & Engineering @ UC Irvine
-### ⚡ Builder • Programmer • Engineering Enthusiast • Content Creator
+### ⚡ Engineering Enthusiast • Content Creatorf • Gamer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+working+on+a+new+project."/>
 
@@ -18,18 +18,17 @@
 💻 Interested in
 
 - Software Engineering
-- Artificial Intelligence
+- Universe :D
 - Embedded Systems
 - Electromagnetics
-- Robotics
 - Computer Graphics
 - Game Development
 
 ⚡ Currently
 
 - 🌱 Learning C, Java, Data Structures & Algorithms
-- 🔬 Exploring embedded systems and hardware projects
-- 🛠 Building personal programming projects
+- 🔬 Trying out ESP32 to replace arduino
+- 🛠 Building some small personal programming projects
 - 📹 Creating gaming content on YouTube
 
 ---
@@ -50,33 +49,6 @@
 
 ---
 
-## ⚙️ Current Projects
-
-🚄 Learning software engineering through personal projects
-
-⚡ Electromagnetic launcher research & simulations
-
-🎮 Experimenting with game development
-
-🤖 AI-assisted programming workflows
-
-📹 YouTube content creation & automation
-
----
-
-## 🌱 Currently Learning
-
-```text
-C Programming          ██████████░░░
-Java                   █████████░░░░
-Data Structures        ████████░░░░░
-Algorithms             ███████░░░░░░
-Git & GitHub           ██████████░░░
-Embedded Systems       ██████░░░░░░░
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -93,11 +65,11 @@ Embedded Systems       ██████░░░░░░░
 
 ## 🎯 Goals for 2026
 
-- 🚀 Build larger software projects
-- 🤖 Learn machine learning fundamentals
-- 🔧 Contribute to open-source
-- 🏁 Join engineering project teams
-- 💼 Land a software engineering internship
+- 🚀 Master ESP32 so I can upgrade my coil gun :D
+- 🤖 Connect with more people, make more friends!
+- 🔧 Reach 100k subscribers for my Youtube channel
+- 🏁 Join engineering project teams at UCI
+- 💼 Apply some internship and/or prepare for some research at UCI
 
 ---
 
