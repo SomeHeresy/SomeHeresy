@@ -3,7 +3,14 @@
 # 👋 Hallo, I'm Calvin Yang :P
 
 ### 💻 Computer Science & Engineering @ UC Irvine
-### ⚡ Engineering Enthusiast • Content Creatorf • Gamer
+### ⚡ Engineering Enthusiast • Content Creator • Gamer
+
+<p>
+<img src="https://img.shields.io/badge/CSE-UCI-0055A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YouTube-Creator-red?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SomeHeresy&style=for-the-badge&color=blue"/>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+working+on+a+new+project."/>
 
@@ -11,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 Incoming **Computer Science & Engineering** student at **UC Irvine**
 
@@ -27,29 +34,43 @@
 ⚡ Currently
 
 - 🌱 Learning C, Java, Data Structures & Algorithms
-- 🔬 Trying out ESP32 to replace arduino
+- 🔬 Trying out ESP32 to replace Arduino
 - 🛠 Building some small personal programming projects
 - 📹 Creating gaming content on YouTube
 
 ---
 
-## 🔧 Tech Stack
-
-### Languages
+# 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,cpp,js,html,css" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,arduino,linux,blender" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/ANSYS-Maxwell%202D-FFB71B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenRocket-Simulation-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EasyEDA-PCB%20Design-darkgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CapCut-Video%20Editing-black?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -63,22 +84,48 @@
 
 ---
 
-## 🎯 Goals for 2026
+# 🏆 Achievements
 
-- 🚀 Master ESP32 so I can upgrade my coil gun :D
-- 🤖 Connect with more people, make more friends!
-- 🔧 Reach 100k subscribers for my Youtube channel
-- 🏁 Join engineering project teams at UCI
-- 💼 Apply some internship and/or prepare for some research at UCI
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=SomeHeresy&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
-## 📫 Connect
+# 📈 Activity Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=SomeHeresy&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Master ESP32 so I can upgrade my coil gun :D
+- 🤝 Connect with more people and make more friends!
+- 🔧 Reach **100k subscribers** on my YouTube channel
+- 🏁 Join engineering project teams at UCI
+- 💼 Apply for internships and prepare for undergraduate research
+
+---
+
+# 📫 Connect
 
 <p>
+
 <a href="https://github.com/SomeHeresy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.youtube.com/@SomeHeresyGaming">
+<img src="https://img.shields.io/badge/YouTube-SomeHeresyGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
 ---
