@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=SomeHeresy&style=for-the-badge&color=blue"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=950&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+working+be+happy+:D."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=950&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+be+happy+:D"/>
 
 <br><br>
 
