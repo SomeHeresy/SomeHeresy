@@ -3,7 +3,6 @@
 # 👋 Hallo, I'm Calvin Yang :P
 
 ### 💻 Computer Science & Engineering @ UC Irvine
-
 ### ⚡ Engineering Enthusiast • Content Creator • Gamer
 
 <p>
@@ -13,11 +12,10 @@
 <img src="https://komarev.com/ghpvc/?username=SomeHeresy&style=for-the-badge&color=blue"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+working+on+a+new+project."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=950&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+working+on+a+new+project."/>
 
-<br>
+<br><br>
 
-<p>
 <a href="https://github.com/SomeHeresy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -25,7 +23,6 @@
 <a href="https://www.youtube.com/@SomeHeresyGaming">
 <img src="https://img.shields.io/badge/YouTube-SomeHeresyGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-</p>
 
 </div>
 
@@ -37,18 +34,18 @@
 
 💻 Interested in
 
-- Software Engineering
-- Universe 🌌
-- Embedded Systems
-- Electromagnetics
-- Computer Graphics
-- Game Development
+- 💻 Software Engineering
+- 🌌 Universe
+- ⚡ Embedded Systems
+- 🧲 Electromagnetics
+- 🎨 Computer Graphics
+- 🎮 Game Development
 
 ⚡ Currently
 
-- 🌱 Learning C, Java, Data Structures & Algorithms
-- 🔬 Trying out ESP32 to replace Arduino
-- 🛠 Building small personal programming projects
+- 🌱 Learning **C, Java, Data Structures & Algorithms**
+- 🔬 Exploring **ESP32** to replace Arduino
+- 🛠 Building personal programming projects
 - 📹 Creating gaming content on YouTube
 
 ---
@@ -56,7 +53,9 @@
 # 💻 Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+
 </p>
 
 ---
@@ -66,22 +65,24 @@
 ### Development
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
+
 </p>
 
 ### Engineering & Design
 
 <p>
 
-<img src="https://img.shields.io/badge/ANSYS-Maxwell%202D-FDB515?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenRocket-Rocket%20Simulation-2196F3?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/EasyEDA-PCB%20Design-0A7B83?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CapCut-Video%20Editing-111111?style=for-the-badge"/>
+<img src="assets/ansys-maxwell.webp" width="65" alt="ANSYS Maxwell"/>
+&nbsp;
+<img src="assets/fusion360.webp" width="65" alt="Fusion 360"/>
+&nbsp;
+<img src="assets/openrocket.png" width="65" alt="OpenRocket"/>
+&nbsp;
+<img src="assets/easyEDA.jpg" width="65" alt="EasyEDA"/>
+&nbsp;
+<img src="assets/capcut.png" width="65" alt="CapCut"/>
 
 </p>
 
@@ -91,11 +92,13 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SomeHeresy&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SomeHeresy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SomeHeresy&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeHeresy&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeHeresy&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SomeHeresy&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -103,7 +106,7 @@
 
 # 🎯 Goals for 2026
 
-- 🚀 Master ESP32 so I can upgrade my coil gun :D
+- 🚀 Master **ESP32** so I can upgrade my coil gun :D
 - 🤝 Connect with more people and make more friends!
 - 🔧 Reach **100k subscribers** on my YouTube channel
 - 🏁 Join engineering project teams at UCI
@@ -115,6 +118,6 @@
 
 ### ⭐ Thanks for visiting!
 
-*"The best way to learn is to build."*
+*"The best way to learn is to build."* 🚀
 
 </div>
