@@ -58,21 +58,7 @@ Outside engineering I run a gaming channel that has passed **50,000 subscribers*
 
 **Engineering & design**
 
-<img src="assets/ansys-maxwell.webp" width="58" alt="ANSYS Maxwell"/>
-&nbsp;
-<img src="assets/fusion360.webp" width="58" alt="Fusion 360"/>
-&nbsp;
-<img src="assets/openrocket.png" width="58" alt="OpenRocket"/>
-&nbsp;
-<img src="assets/easyEDA.jpg" width="58" alt="EasyEDA"/>
-&nbsp;
-<img src="assets/capcut.png" width="58" alt="CapCut"/>
-
----
-
-## Contributions
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SomeHeresy&show_icons=true&include_all_commits=true&hide=issues,prs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=C9D1D9&icon_color=EDBA72&title_color=9EE5D1"/>
+<p><img src="assets/ansys-maxwell.webp" height="48" alt="ANSYS Maxwell"/>&nbsp;&nbsp;&nbsp;<img src="assets/fusion360.webp" height="48" alt="Fusion 360"/>&nbsp;&nbsp;&nbsp;<img src="assets/openrocket.png" height="48" alt="OpenRocket"/>&nbsp;&nbsp;&nbsp;<img src="assets/easyEDA.jpg" height="48" alt="EasyEDA"/>&nbsp;&nbsp;&nbsp;<img src="assets/capcut.png" height="48" alt="CapCut"/></p>
 
 ---
 
