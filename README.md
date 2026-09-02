@@ -1,115 +1,94 @@
 <div align="center">
 
-# 👋 Hallo, I'm Calvin Yang :P
+# Calvin Yang
 
-### 💻 Computer Science & Engineering @ UC Irvine
-### ⚡ Engineering Enthusiast • Content Creator • Gamer
+**Computer Science & Engineering @ UC Irvine**
 
-<p>
-<img src="https://img.shields.io/badge/CSE-UCI-0055A4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YouTube-Creator-red?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=SomeHeresy&style=for-the-badge&color=blue"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9EE5D1&center=true&vCenter=true&width=600&lines=Two-stage+coil+gun+at+~16+m%2Fs;ANSYS+Maxwell+to+Arduino+stage+timing;Embedded+systems+%7C+electromagnetics;Where+code+meets+hardware"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=950&lines=Building+cool+things.;Learning+something+new+every+day.;Interested+in+Software+%2B+Hardware.;Always+be+happy+:D"/>
+<br>
 
-<br><br>
-
-<a href="https://github.com/SomeHeresy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@SomeHeresyGaming">
-<img src="https://img.shields.io/badge/YouTube-SomeHeresyGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<a href="https://someheresy.github.io/"><img src="https://img.shields.io/badge/Portfolio-someheresy.github.io-9EE5D1?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/calvinyang07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@SomeHeresyGaming"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:calviny7@uci.edu"><img src="https://img.shields.io/badge/Email-EDBA72?style=for-the-badge&logo=gmail&logoColor=1a1a1a"/></a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About
 
-🎓 Incoming **Computer Science & Engineering** student at **UC Irvine**
+I build things where the software has to survive contact with real hardware — sensors that drift, timing that matters in milliseconds, and parts that have to physically line up.
 
-💻 Interested in
+The through-line is a two-stage electromagnetic accelerator I have been rebuilding since 2022, now on its third version. Getting it working meant learning electromagnetic simulation, CAD, fabrication, and embedded timing, because the problem refused to be solved by any one of them alone.
 
-- 💻 Software Engineering
-- 🌌 Universe
-- ⚡ Embedded Systems
-- 🧲 Electromagnetics
-- 🎨 Computer Graphics
-- 🎮 Game Development
-
-⚡ Currently
-
-- 🌱 Learning **C, Java, Data Structures & Algorithms**
-- 🔬 Exploring **ESP32** to replace Arduino
-- 🛠 Building personal programming projects
-- 📹 Creating gaming content on YouTube
+Outside engineering I run a gaming channel that has passed **50,000 subscribers** and **150M views**, which has taught me more about shipping on a schedule and iterating against real feedback than any class has.
 
 ---
 
-# 💻 Languages
+## Featured work
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
-
-</p>
-
----
-
-# 🛠 Tools
-
-### Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,github,arduino" />
-
-</p>
-
-### Engineering & Design
-
-<p>
-
-<img src="assets/ansys-maxwell.webp" width="65" alt="ANSYS Maxwell"/>
-&nbsp;
-<img src="assets/fusion360.webp" width="65" alt="Fusion 360"/>
-&nbsp;
-<img src="assets/openrocket.png" width="65" alt="OpenRocket"/>
-&nbsp;
-<img src="assets/easyEDA.jpg" width="65" alt="EasyEDA"/>
-&nbsp;
-<img src="assets/capcut.png" width="65" alt="CapCut"/>
-
-</p>
+| Project | What it is | |
+|---|---|---|
+| **Electromagnetic Accelerator** | Two-stage coil gun, ~16 m/s with a 54.63 g projectile. Coil timing derived from ANSYS Maxwell 2D, switched through optocouplers by an Arduino. | [Code](https://github.com/SomeHeresy/Electromagnetic-Accelerator) · [Case study](https://someheresy.github.io/projects/electromagnetic-accelerator.html) |
+| **EMCG Control** | Multi-sensor OLED interface over I²C — the first prototype of a control panel for the accelerator. | [Code](https://github.com/SomeHeresy/2026-summer-projects/tree/main/Arduino/Advanced) · [Case study](https://someheresy.github.io/projects/arduino-sensor-control.html) |
+| **American Rocketry Challenge** | R&D and simulation lead for a seven-person team. Iterative OpenRocket analysis improved flight prediction accuracy by 23.2%; official score 139.8. | [Case study](https://someheresy.github.io/projects/american-rocketry-challenge.html) |
+| **Portfolio site** | Hand-written static site — no framework, no build step, zero dependencies. Canvas 2D field simulation in the hero. | [Code](https://github.com/SomeHeresy/SomeHeresy.github.io) · [Live](https://someheresy.github.io/) |
 
 ---
 
-# 📊 GitHub Stats
+## Currently building
 
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SomeHeresy&theme=tokyonight&hide_border=true"/>
-
-</div>
+- **Coil gun V4 on ESP32** — moving to interrupt-driven timing and closed-loop control, so stage 2 fires from *measured* projectile position instead of a fixed delay
+- **Sharpening C and C++** ahead of embedded coursework
+- Looking for **UCI project teams and undergraduate research** in embedded systems, power electronics, or robotics
 
 ---
 
-# 🎯 Goals for 2026
+## Toolbox
 
-- 🚀 Master **ESP32** so I can upgrade my coil gun :D
-- 🤝 Connect with more people and make more friends!
-- 🔧 Reach **100k subscribers** on my YouTube channel
-- 🏁 Join engineering project teams at UCI
-- 💼 Apply for internships and prepare for undergraduate research
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=arduino,vscode,git,github,html,css,js" />
+
+**Engineering & design**
+
+<img src="assets/ansys-maxwell.webp" width="58" alt="ANSYS Maxwell"/>
+&nbsp;
+<img src="assets/fusion360.webp" width="58" alt="Fusion 360"/>
+&nbsp;
+<img src="assets/openrocket.png" width="58" alt="OpenRocket"/>
+&nbsp;
+<img src="assets/easyEDA.jpg" width="58" alt="EasyEDA"/>
+&nbsp;
+<img src="assets/capcut.png" width="58" alt="CapCut"/>
+
+---
+
+## Contributions
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SomeHeresy&show_icons=true&include_all_commits=true&hide=issues,prs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=C9D1D9&icon_color=EDBA72&title_color=9EE5D1"/>
+
+---
+
+## Goals for 2026
+
+- Get coil gun V4 running closed-loop on ESP32
+- Join an engineering project team at UCI
+- Land undergraduate research in embedded systems or power electronics
+- Reach 100,000 subscribers
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+**Open to internships, research, and project teams** — embedded systems, electronics, firmware, simulation.
+
+[someheresy.github.io](https://someheresy.github.io/) · [calviny7@uci.edu](mailto:calviny7@uci.edu)
 
 </div>
