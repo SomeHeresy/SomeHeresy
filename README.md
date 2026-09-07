@@ -37,7 +37,9 @@ Outside engineering I run a gaming channel that has passed **50,000 subscribers*
 | **Coilgun Timing Simulator** | Python physics engine coupling capacitor discharge to projectile motion through position-dependent inductance. Custom RK4 solver, energy conserved to 6e-14, 22 tests in CI. Found a 46.8% suckback loss on my own hardware. | [Code](https://github.com/SomeHeresy/Coilgun-Simulator) · [Case study](https://someheresy.github.io/projects/coilgun-simulator.html) |
 | **EMCG Control** | Multi-sensor OLED interface over I²C — the first prototype of a control panel for the accelerator. | [Code](https://github.com/SomeHeresy/2026-summer-projects/tree/main/Arduino/Advanced) · [Case study](https://someheresy.github.io/projects/arduino-sensor-control.html) |
 | **American Rocketry Challenge** | R&D and simulation lead for a seven-person team. Iterative OpenRocket analysis improved flight prediction accuracy by 23.2%; official score 139.8. | [Case study](https://someheresy.github.io/projects/american-rocketry-challenge.html) |
-| **Portfolio site** | Hand-written static site — no framework, no build step, zero dependencies. Canvas 2D field simulation in the hero. | [Code](https://github.com/SomeHeresy/SomeHeresy.github.io) · [Live](https://someheresy.github.io/) |
+| **Portfolio site** | **AI-built** — I gave the style direction and content, Claude wrote the code. Static site, no framework, no build step, zero dependencies. Canvas 2D field simulation in the hero. | [Code](https://github.com/SomeHeresy/SomeHeresy.github.io) · [Live](https://someheresy.github.io/) |
+
+> **A note on the portfolio site:** I did not build it. The code was written by AI; my part was choosing the visual style I wanted, writing and supplying the content, and reviewing until it matched. The engineering projects above are my own work — the site that presents them is not.
 
 ---
 
